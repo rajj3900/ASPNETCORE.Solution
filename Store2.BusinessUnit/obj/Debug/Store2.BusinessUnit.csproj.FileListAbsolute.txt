@@ -1,0 +1,2 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.BusinessUnit\obj\Debug\Store2.BusinessUnit.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.BusinessUnit\obj\Debug\Store2.BusinessUnit.csproj.CoreCompileInputs.cache

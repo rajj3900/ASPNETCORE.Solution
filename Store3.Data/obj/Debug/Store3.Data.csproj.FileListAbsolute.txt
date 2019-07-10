@@ -1,0 +1,12 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\Store3.Data.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\Store3.Data.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\obj\Debug\Store3.Data.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\obj\Debug\Store3.Data.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\obj\Debug\Store3.Data.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\Store3.Data.dll.config
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\EntityFramework.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\EntityFramework.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\obj\Debug\Store3.Data.csproj.CopyComplete
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.Data\obj\Debug\Store3.Data.csprojAssemblyReference.cache

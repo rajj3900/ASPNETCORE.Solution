@@ -1,0 +1,17 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Common.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Common.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\AutoMapper.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Data.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Domain.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\EntityFramework.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Data.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Data.dll.config
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\Store4.Domain.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\AutoMapper.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\AutoMapper.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\bin\Debug\EntityFramework.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\obj\Debug\Store4.Common.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\obj\Debug\Store4.Common.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\obj\Debug\Store4.Common.csproj.CopyComplete
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\obj\Debug\Store4.Common.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store4.Common\obj\Debug\Store4.Common.pdb

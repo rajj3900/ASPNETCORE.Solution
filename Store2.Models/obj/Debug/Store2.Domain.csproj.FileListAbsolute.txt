@@ -1,0 +1,6 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\bin\Debug\Store2.Models.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\bin\Debug\Store2.Models.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\obj\Debug\Store2.Domain.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\obj\Debug\Store2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\obj\Debug\Store2.Models.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store2.Models\obj\Debug\Store2.Models.pdb

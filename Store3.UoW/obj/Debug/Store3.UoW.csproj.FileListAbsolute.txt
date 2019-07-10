@@ -1,0 +1,17 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Store3.UoW.dll.config
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Store3.UoW.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Store3.UoW.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\EntityFramework.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\EntityFramework.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\obj\Debug\Store3.UoW.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\obj\Debug\Store3.UoW.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\obj\Debug\Store3.UoW.csproj.CopyComplete
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\obj\Debug\Store3.UoW.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\Store3.UoW\obj\Debug\Store3.UoW.pdb

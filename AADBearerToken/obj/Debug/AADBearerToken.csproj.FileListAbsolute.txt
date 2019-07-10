@@ -1,0 +1,10 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\obj\Debug\AADBearerToken.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\obj\Debug\AADBearerToken.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\bin\Debug\AADBearerToken.exe.config
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\bin\Debug\AADBearerToken.exe
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\bin\Debug\AADBearerToken.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\obj\Debug\AADBearerToken.csproj.CopyComplete
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\obj\Debug\AADBearerToken.exe
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\AADBearerToken\obj\Debug\AADBearerToken.pdb

@@ -1,0 +1,106 @@
+M-Application, T-Security, W-Application, T-Security, F-Application, S-Security, S-Application
+https://www.codeproject.com/Articles/990492/RESTful-Day-sharp-Enterprise-Level-Application
+https://www.codeproject.com/Articles/620195/Learning-MVC-Part-Introduction-to-MVC-Architectu
+- Entity framework - DB connection
+- Repository pattern
+	- CRUD operations
+	- Implement CRUD operations in a API controller
+- Unity IoC container - nuget - unity.webapi
+- Automapper
+- RoutePrefix, Route
+- Enable HTTPS from Visual Studio
+- Postman
+- Fiddler
+- AA
+	- Basic authentication
+	- OAuth 
+		- access token
+		- token endpoint/token based authentication
+		- grant_type
+			- client_credentials
+			- password
+- IIS - deployment
+- Swagger UI
+	- API access - nuget - swashbuckle, swashbuckle.odata - swagger/ui/index
+- OData - Open Data Protocol - nuget - microsoft.aspnet.webapi.odata
+	- OData provides an entire query language directly in the URL
+	- https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/supporting-odata-query-options
+====================================================================================
+SQL QUERIES:
+- 
+====================================================================================
+To-Do
+?? CACHING ISSUE DURING WOTC DEPLOYMENT
+- ASP.NET Core project
+- IQuereable vs IEnumerable
+- sql - with (nolock)
+- UI
+	- Sample connecting to API and displaying data
+- AA
+	- Cookie based Authentication
+	- windows auth
+	- forms auth
+	- SAML auth
+	- OAuth		
+		- refresh token
+		- identity token
+		- authorization code
+		- implicit
+		- openid connect
+	- API keys
+- Fiddler 
+	- PE testing
+- Postman 
+	- in-depth usage
+- OData
+	- Include APIs in Swagger UI ??
+	- Pagination
+- Owin
+- Swagger UI
+	- OData APIs in swagger UI
+	- Authentication
+- Kendo UI
+- async programming
+- Tracing
+- Instrumentation
+- Unit testing - https://www.youtube.com/watch?v=dZ2Psa_Bn2Q
+	- NUnit
+	- mock data
+- Fluent api/validation
+- Exception/error logging
+- Repository pattern
+	- Unit of work 
+		- https://www.youtube.com/watch?v=QwwfTWMrM9k
+		- https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
+		- https://github.com/urfnet/URF.NET
+		- https://www.youtube.com/watch?v=LJTA5D3HBFI
+		.Web
+		.Services
+		.BUs
+		 -Country
+		   -Interface
+		   -Class
+		.Repository
+		.Domain
+		 -Entities
+		.Common
+		.Data
+
+- MVC/Web API filters/global filters
+- DACPAC
+	- DB project
+- CI/CD
+	- VSTS
+	- Github
+- Azure app deployment
+- Azure sql db connection to app
+- SSIS
+- UML
+- Proposal doc
+- MS graph explorer
+- Using a Refresh Token to Renew an Expired Access Token for Azure Active Directory
+- https://www.hangfire.io/
+- how to create Dev SSL cert?
+- Do you know how to convert a windows service to a web job?
+- https://www.linkedin.com/learning/http-essential-training/welcome?u=1504
+- Service broker

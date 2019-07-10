@@ -1,0 +1,12 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\DOTNET.Solution.Data.dll.config
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\DOTNET.Solution.Data.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\DOTNET.Solution.Data.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\EntityFramework.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\EntityFramework.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\obj\Debug\DOTNET.Solution.Data.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\obj\Debug\DOTNET.Solution.Data.csproj.CopyComplete
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\obj\Debug\DOTNET.Solution.Data.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\obj\Debug\DOTNET.Solution.Data.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\DOTNET.Solution.Data\obj\Debug\DOTNET.Solution.Data.csprojAssemblyReference.cache

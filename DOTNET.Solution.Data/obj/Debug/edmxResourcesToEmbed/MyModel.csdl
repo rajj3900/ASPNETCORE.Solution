@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WOTC_DevModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="States" Relationship="WOTC_DevModel.FK_State_Country" FromRole="Country" ToRole="State" />
+  </EntityType>
+  <EntityContainer Name="WOTC_DevEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Countries" EntityType="Self.Country" />
+    <EntitySet Name="States" EntityType="WOTC_DevModel.State" />
+    <AssociationSet Name="FK_State_Country" Association="WOTC_DevModel.FK_State_Country">
+      <End Role="Country" EntitySet="Countries" />
+      <End Role="State" EntitySet="States" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Code" Type="String" Nullable="false" MaxLength="2" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CountryId" Type="Guid" Nullable="false" />
+    <Property Name="IsGeographical" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Country" Relationship="WOTC_DevModel.FK_State_Country" FromRole="State" ToRole="Country" />
+  </EntityType>
+  <Association Name="FK_State_Country">
+    <End Type="WOTC_DevModel.Country" Role="Country" Multiplicity="1" />
+    <End Type="WOTC_DevModel.State" Role="State" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="State">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Code" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="CreatedUser" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Store">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StoreCode" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="StoreName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CountryId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CreatedUser" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Store_Country">
+    <End Role="Country" Type="Self.Country" Multiplicity="1" />
+    <End Role="Store" Type="Self.Store" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Store">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="StoreModelStoreContainer">
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="Master" store:Type="Tables" />
+    <EntitySet Name="Store" EntityType="Self.Store" Schema="Master" store:Type="Tables" />
+    <AssociationSet Name="FK_Store_Country" Association="Self.FK_Store_Country">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="Store" EntitySet="Store" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\bin\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.deps.json
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\bin\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.runtimeconfig.json
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\bin\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.runtimeconfig.dev.json
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\bin\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\bin\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.pdb
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.csprojAssemblyReference.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.RazorAssemblyInfo.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.RazorAssemblyInfo.cs
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.AssemblyInfoInputs.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.AssemblyInfo.cs
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.dll
+C:\Users\rkotagadda\Documents\A-TAX-Docs\RajProjects\ASPNETCORE.Solution\ASPNETCORE.Solution.WebAPI\obj\Debug\netcoreapp2.2\ASPNETCORE.Solution.WebAPI.pdb
